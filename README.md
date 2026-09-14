@@ -42,6 +42,7 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 <div align="center">
   <img src="https://raw.githubusercontent.com/yniks1/yniks1/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha Zumbi" />
 </div>
+</div>
 
 
 
