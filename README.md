@@ -47,10 +47,11 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 ## SURVIVOR STATUS
 
 ```yaml
-[IDENTIDADE]  : Yago "yniks"
-[CLASSE]      : Full-Stack Apocalypse Engineer
-[BASE ATUAL]  : Contagem, MG - Zona Segura 🇧🇷
-[CONDIÇÃO]    : 🟢 Estável (Movido a café, testes automatizados e adrenalina)
-[TRAIT]       : "Resolve sob Pressão" (+20 Moral ao debugar em produção)
-[LEADER BONUS]: "Infraestrutura Inabalável" (-50% de débito técnico na base)
-[MISSÃO]      : Eliminar hordas de bugs, refatorar código legado e construir soluções escaláveis.
+[IDENTIDADE]       : Yago Lacerda "yniks"
+[CLASSE]           : Full-Stack Apocalypse Engineer
+[BASE ATUAL]       : Contagem, MG - Zona Segura 🇧🇷
+[TEMPO NO APOCALIPSE]: DIAS_SOBREVIVENDO: 0 dias
+[CONDIÇÃO]         : 🟢 Estável (Movido a café, testes automatizados e adrenalina)
+[TRAIT]            : "Resolve sob Pressão" (+20 Moral ao debugar em produção)
+[LEADER BONUS]     : "Infraestrutura Inabalável" (-50% de débito técnico na base)
+[MISSÃO]           : Eliminar hordas de bugs, refatorar código legado e construir soluções escaláveis.
