@@ -21,74 +21,65 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
                               XP^X'`b   d'`X^XX
                               X. 9  `   '  P )X
                               `b  `       '  d'
-☣️ [ TERMINAL DE DEFESA DA BASE: YNIKS-01 ] ☣️
-Plaintext
-[ SISTEMA INICIADO... ]
-> VARREDURA DE PERÍMETRO: Concluída.
-> AVISO: Múltiplas assinaturas térmicas detectadas fora da base.
-─── ☣ ───
+
+☣️ SISTEMA DE SOBREVIVÊNCIA INICIADO... ☣️
+⚠️ ALERTA DO RADAR DE INFECÇÃO: Múltiplas assinaturas térmicas detectadas fora do perímetro. Mantenha as barricadas erguidas e o código refatorado.
 
 🧟 SURVIVOR STATUS
-Identidade Operacional: Yago Lacerda (yniks)
+YAML
+[IDENTIDADE]  : Yago Lacerda "yniks"
+[CLASSE]      : Full-Stack Apocalypse Engineer
+[BASE ATUAL]  : Contagem, MG - Zona Segura 🇧🇷
+[CONDIÇÃO]    : 🟢 Estável (Movido a café, testes automatizados e adrenalina)
+[TRAIT]       : "Resolve sob Pressão" (+20 Moral ao debugar em produção)
+[MISSÃO]      : Eliminar hordas de bugs, refatorar código legado e construir infraestruturas inabaláveis.
+🎒 INVENTÁRIO (RECURSOS DA COMUNIDADE)
+🔫 Armamento Primário (Back-end / Grosso Calibre)
+<!-- PREENCHER: Backend Stack -->
 
-Classe: Full-Stack Apocalypse Engineer
+🛡️ Suprimentos de Barricada (Front-end / Defesa da Base)
+<!-- PREENCHER: Frontend Stack -->
 
-Localização Base: Contagem, MG - Zona Segura 🇧🇷
+📻 Rádios Comunicadores & Radar (Cloud & DevOps)
+<!-- PREENCHER: Cloud & Infra Stack -->
 
-Combustível: Café espresso, adrenalina e zero warning no console.
+📦 Armazém de Mantimentos (Bancos de Dados & Mídia)
+<!-- PREENCHER: Database Stack -->
 
-Missão Principal: Eliminar hordas de bugs, refatorar código legado e manter a infraestrutura de pé antes que a horda avance.
+🩸 MISSÕES ATIVAS (PROJETOS EM ANDAMENTO)
+🚛 SaaS Vistoria Veicular: Sistema de gestão e vistoria veicular projetado para operar com alta disponibilidade sob ataques de requisições.
 
-─── ☣ ───
+🛡️ Projeto Yuna: Plataforma focada em arquitetura escalável e proteção de dados críticos da comunidade.
 
-🎒 INVENTÁRIO (Tech Stack)
-Armamento Primário (Grosso Calibre)
+🌱 Pegada Ecológica: Aplicação voltada para mensuração e otimização do impacto ambiental de recursos consumo.
 
-Suprimentos de Barricada (Front-end)
+🏠 BASE ATUAL (COMMAND CENTER & SETUP)
+Posto de Comando (SO):
 
-Rádios Comunicadores & Radar (Cloud & Backend)
+Arma Prototipadora (IDE):
 
-─── ☣ ───
+Nível da Base: Oficina Nível 3 (Ambiente totalmente automatizado com Docker e CI/CD)
 
-🩸 MISSÕES ATIVAS (Deploy Log)
-📡 SaaS Vistoria Veicular: Sistema tático de auditoria e monitoramento de frotas para rotas de fuga.
+Upgrade do Roadmap:
 
-🤖 Projeto Yuna: Inteligência Artificial em quarentena para auxílio em operações complexas.
+🏆 HERO BONUS & SOFT SKILLS (LIDERANÇA)
+Liderança Construtora: Visão focada em arquitetura limpa e sustentabilidade de código a longo prazo.
 
-🌍 Pegada Ecológica: Mapeamento e gestão de impacto ambiental nas áreas afetadas.
+Comunicação de Emergência: Habilidade de traduzir termos técnicos complexos para a comunidade não-dev.
 
-─── ☣ ───
+Gestão de Crise (Sangue-Plaga): Acalma a equipe e resolve incidentes graves de produção sem perder a cabeça.
 
-🧬 MUTAÇÕES (Experimentos & Aprendizado)
-🧪 Sistemas Autônomos: Estudando integração de agentes de IA para resposta automática a incidentes.
+⚰️ BESTIÁRIO DE BUGS (MORTOS-VIVOS ABATIDOS)
+🧌 Juggernaut (Memory Leak): Identificado, isolado em container e abatido via profilaxia de código.
 
-🛡️ Hardening de Infraestrutura: Reforçando segurança de rotas e comunicação via APIs codificadas.
+🏃 Feral (Race Condition): Neutralizado com controle rigoroso de assincronismo e travas de estado.
 
-─── ☣ ───
-
-⚰️ BAIXAS (Cemitério de Código)
-"Honramos as ferramentas do passado que sucumbiram às novas variantes do ecossistema."
-
-🪦 jQuery — Serviu bravamente na linha de frente, mas não resistiu à modernização do JavaScript.
-
-🪦 Internet Explorer — Confirmado como paciente zero de lentidão. Isolado permanentemente.
-
-─── ☣ ───
+🤢 Bloater (Código Legado Spagheti): Refatorado antes que contaminasse os demais microsserviços.
 
 📊 STATS DO ABRIGO
+📻 RÁDIO DE EMERGÊNCIA (CONTATO & REDES)
+Sintonize no nosso canal de rádio para trocas de suprimentos, parcerias de código ou recrutamento da comunidade:
 
+[](mailto:)
 
-─── ☣ ───
-
-📻 FREQUÊNCIAS DE RÁDIO (Contato)
-Sugestões de Repositórios Temáticos
-
-Para dar um destaque a mais na sua seção de repositórios fixados (Pins):
-
-outbreak-survival-kit — Repositório de scripts de automação, utilitários CLI ou configurações de ambiente (dotfiles).
-
-zombie-bug-hunter — Repositório focado em suítes de testes, linters e ferramentas de validação de código.
-
-quarantine-zone — Espaço reservado para projetos conceituais, rascunhos ou testes de novas tecnologias isoladas.
-
-bunker-dashboard — Projetos de painéis administrativos ou sistemas de monitoramento em tempo real.
+☣️ Terminal mantido por Yago (yniks). SobreViva ao código. ☣️
