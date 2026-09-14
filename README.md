@@ -36,7 +36,7 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 <p>⚠️ <b>SINAL DE EMERGÊNCIA:</b> Múltiplas assinaturas térmicas detectadas fora do perímetro. Mantenha as barricadas erguidas e o código refatorado.</p>
 
 <a href="#"><img src="https://img.shields.io/badge/SOBREVIVENTE-🟢%20ATIVO-39ff14?style=for-the-badge&labelColor=0d0d0d" /></a>
-<a href="#"><img src="https://img.shields.io/badge/INFECÇÃO%20PLAGA-0%25-39ff14?style=for-the-badge&labelColor=0d0d0d&logo=biohazard&logoColor=39ff14" /></a>
+<a href="#"><img src="https://img.shields.io/badge/INFECÇÃO%20PLAGA-25%25-39ff14?style=for-the-badge&labelColor=0d0d0d&logo=biohazard&logoColor=39ff14" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LÍDER-CONSTRUTOR-b7410e?style=for-the-badge&labelColor=0d0d0d" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MORAL%20DA%20COMUNIDADE-ALTA-39ff14?style=for-the-badge&labelColor=0d0d0d" /></a>
 
@@ -44,7 +44,7 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 
 ---
 
-## 🧟 SURVIVOR STATUS
+## SURVIVOR STATUS
 
 ```yaml
 [IDENTIDADE]  : Yago "yniks"
