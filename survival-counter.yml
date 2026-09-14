@@ -1,0 +1,25 @@
+name: Survival Counter
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Calculate Days
+        id: calculate
+        run: |
+          START_DATE="2020-01-01" # SUBSTITUA pela data que começou a programar (YYYY-MM-DD)
+          CURRENT_DATE=$(date +%Y-%m-%d)
+          DAYS=$(( ( $(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 ))
+          echo "DAYS=$DAYS" >> $GITHUB_ENV
+
+      - name: Log Survival Days
+        run: |
+          echo "Dias sobrevivendo no apocalipse dev: $DAYS"
