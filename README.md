@@ -1,6 +1,6 @@
-<div align="center">
 
 
+<pre align="center">
     .                                                      .
         .n                   .                 .                  n.
   .   .dP                  dP                   9b                 9b.    .
@@ -21,7 +21,7 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
                               XP^X'`b   d'`X^XX
                               X. 9  `   '  P )X
                               `b  `       '  d'
-    <pre align="center">
+<div align="center">    
 </pre>
 
 <h3>☣️ SISTEMA DE SOBREVIVÊNCIA INICIADO — BASE MARSHALL ☣️</h3>
