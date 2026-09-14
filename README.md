@@ -42,6 +42,10 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yniks1/yniks1/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha Zumbi" />
+</div>
+
 ---
 
 ## SURVIVOR STATUS
@@ -55,3 +59,4 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 [TRAIT]            : "Resolve sob Pressão" (+20 Moral ao debugar em produção)
 [LEADER BONUS]     : "Infraestrutura Inabalável" (-50% de débito técnico na base)
 [MISSÃO]           : Eliminar hordas de bugs, refatorar código legado e construir soluções escaláveis.
+
