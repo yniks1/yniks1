@@ -1,6 +1,29 @@
-# ☣️ SURVIVOR LOG: YNIKS ☣️
+📋 Ficha do Sobrevivente
+Classe: Full-Stack Apocalypse Engineer
 
-> *"I make my own luck... especially in a world taken by walkers."*
+Zona de Operação: Brasil 🇧🇷
 
-```img
-[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E7D32&width=435&lines=Class%3A+Apocalypse+Developer;Specialty%3A+Python+%26+TypeScript;Status%3A+Infected+with+Code;Target%3A+Surviving+the+Bug+Horde](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E7D32&width=435&lines=Class%3A+Apocalypse+Developer;Specialty%3A+Python+%26+TypeScript;Status%3A+Infected+with+Code;Target%3A+Surviving+the+Bug+Horde)
+Missão Atual: Desenvolver sistemas e eliminar a horda de bugs antes do amanhecer.
+
+Status de Infecção: 99% Imune (movido a café)
+
+🔫 Equipamentos & Arsenal (Tech Stack)
+Armas Primárias: Python • TypeScript
+
+Armas Secundárias: HTML5 • CSS3 • JavaScript
+
+Kit de Sobrevivência: VS Code • Git & GitHub • Node.js • SQL
+
+📊 Relatório de Sobrevivência (Stats)
+🧟 Animação da Horda de Commits
+3. Elementos Visuais Que Vão Dar O Toque Zumbi
+
+Cores e Banners: Use tons verde-tóxico (#2e7d32), vermelho-sangue (#8b0000) ou cinza escuro de zona de contaminação.
+
+Badges Customizados (Shields.io): Crie badges para suas tecnologias simulando equipamentos de sobrevivência:
+
+![Python](https://img.shields.io/badge/Arma-Python-2e7d32?style=for-the-badge&logo=python&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/Arma-TypeScript-2e7d32?style=for-the-badge&logo=typescript&logoColor=white)
+
+Snake Game nos Commits: Configure o GitHub Action do snk no seu repositório. Ele cria uma animação onde a cobrinha (ou um zumbi) vai "comendo" o seu gráfico de contribuições verde.
