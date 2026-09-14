@@ -39,12 +39,12 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 <a href="#"><img src="https://img.shields.io/badge/INFECÇÃO%20PLAGA-25%25-39ff14?style=for-the-badge&labelColor=0d0d0d&logo=biohazard&logoColor=39ff14" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LÍDER-CONSTRUTOR-b7410e?style=for-the-badge&labelColor=0d0d0d" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MORAL%20DA%20COMUNIDADE-ALTA-39ff14?style=for-the-badge&labelColor=0d0d0d" /></a>
+
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/yniks1/yniks1/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha Zumbi" />
 </div>
-</div>
-
-
 
 ---
 
