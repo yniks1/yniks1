@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1200&auto=format&fit=crop" width="100%" alt="State of Decay Outpost Banner" />
 
-```text
+<pre>
     .                                                      .
         .n                   .                 .                  n.
   .   .dP                  dP                   9b                 9b.    .
@@ -23,14 +23,24 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
                               XP^X'`b   d'`X^XX
                               X. 9  `   '  P )X
                               `b  `       '  d'
+</pre>
 
-☣️ SISTEMA DE SOBREVIVÊNCIA INICIADO — BASE MARSHALL ☣️  
-⚠️ SINAL DE EMERGÊNCIA: Múltiplas assinaturas térmicas detectadas fora do perímetro. Mantenha as barricadas erguidas e o código refatorado.  
+<h3>☣️ SISTEMA DE SOBREVIVÊNCIA INICIADO — BASE MARSHALL ☣️</h3>
 
-─── ☣ ───
+<p>⚠️ <b>SINAL DE EMERGÊNCIA:</b> Múltiplas assinaturas térmicas detectadas fora do perímetro. Mantenha as barricadas erguidas e o código refatorado.</p>
 
-🧟 SURVIVOR STATUS
-YAML
+<a href="#"><img src="https://img.shields.io/badge/SOBREVIVENTE-🟢%20ATIVO-39ff14?style=for-the-badge&labelColor=0d0d0d" /></a>
+<a href="#"><img src="https://img.shields.io/badge/INFECÇÃO%20PLAGA-0%25-39ff14?style=for-the-badge&labelColor=0d0d0d&logo=biohazard&logoColor=39ff14" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LÍDER-CONSTRUTOR-b7410e?style=for-the-badge&labelColor=0d0d0d" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MORAL%20DA%20COMUNIDADE-ALTA-39ff14?style=for-the-badge&labelColor=0d0d0d" /></a>
+
+</div>
+
+---
+
+## 🧟 SURVIVOR STATUS
+
+```yaml
 [IDENTIDADE]  : Yago "yniks"
 [CLASSE]      : Full-Stack Apocalypse Engineer
 [BASE ATUAL]  : Contagem, MG - Zona Segura 🇧🇷
@@ -38,108 +48,92 @@ YAML
 [TRAIT]       : "Resolve sob Pressão" (+20 Moral ao debugar em produção)
 [LEADER BONUS]: "Infraestrutura Inabalável" (-50% de débito técnico na base)
 [MISSÃO]      : Eliminar hordas de bugs, refatorar código legado e construir soluções escaláveis.
-─── ☣ ───
+```
 
-🏠 BASE ATUAL (COMMAND CENTER & SETUP)
-Posto de Comando (SO): ``
+---
 
-Arma Prototipadora (IDE): VS Code / Cursor
+## 🏠 BASE ATUAL (COMMAND CENTER & SETUP)
 
-Nível do Abrigo: Oficina Nível 3 (Automatizado com Docker e CI/CD)
+* **Posto de Comando (SO):** `<!-- PREENCHER: Linux / Windows / macOS -->`
+* **Arma Prototipadora (IDE):** VS Code / Cursor
+* **Nível do Abrigo:** Oficina Nível 3 (Automatizado com Docker e CI/CD)
+* **Suprimento Crítico:** Café extraforte e documentação limpa
 
-Suprimento Crítico: Café extraforte e documentação limpa
+---
 
-─── ☣ ───
+## 🎒 INVENTÁRIO (RECURSOS DA COMUNIDADE)
 
-🎒 INVENTÁRIO (RECURSOS DA COMUNIDADE)
-🔫 Munição (Backend)
-``
+### 🔫 Munição (Backend)
+<!-- PREENCHER: Cole os badges ou texto das suas tecnologias de Backend -->
+`<!-- PREENCHER: Node.js, Python, C#, Java, Go -->`
 
-🧱 Materiais (Frontend)
-``
+### 🧱 Materiais (Frontend)
+<!-- PREENCHER: Cole os badges das suas tecnologias de Frontend -->
+`<!-- PREENCHER: React, Vue, TypeScript, TailwindCSS -->`
 
-💊 Meds (Cloud & Infraestrutura)
-``
+### 💊 Meds (Cloud & Infraestrutura)
+<!-- PREENCHER: Cole os badges de Cloud/Infra -->
+`<!-- PREENCHER: Docker, AWS, Firebase, Supabase, Vercel -->`
 
-🍖 Comida (Bancos de Dados)
-``
+### 🍖 Comida (Bancos de Dados)
+<!-- PREENCHER: Cole os badges de Banco de Dados -->
+`<!-- PREENCHER: PostgreSQL, MongoDB, MySQL, Redis -->`
 
-⛽ Combustível (DevOps & Ferramentas)
-``
+### ⛽ Combustível (DevOps & Ferramentas)
+<!-- PREENCHER: Cole os badges de DevOps/Ferramentas -->
+`<!-- PREENCHER: Git, GitHub Actions, Linux, Postman -->`
 
-─── ☣ ───
+---
 
-🩸 MISSÕES ATIVAS (PROJETOS EM ANDAMENTO)
-🚛 SaaS Vistoria Veicular: Sistema de gestão e vistoria veicular projetado para operar com alta disponibilidade sob ataques de requisições.
+## 🩸 MISSÕES ATIVAS (PROJETOS EM ANDAMENTO)
 
-🛡️ Projeto Yuna: Plataforma focada em arquitetura escalável e proteção de dados críticos da comunidade.
+* 🚛 **SaaS Vistoria Veicular:** Sistema de gestão e vistoria veicular projetado para operar com alta disponibilidade sob ataques de requisições.
+* 🛡️ **Projeto Yuna:** Plataforma focada em arquitetura escalável e proteção de dados críticos da comunidade.
+* 🌱 **Pegada Ecológica:** Aplicação voltada para mensuração e otimização do impacto ambiental de recursos e consumo.
 
-🌱 Pegada Ecológica: Aplicação voltada para mensuração e otimização do impacto ambiental de recursos e consumo.
+---
 
-─── ☣ ───
+## 🧬 MUTAÇÕES (SKILLS EM APRENDIZADO)
 
-🧬 MUTAÇÕES (SKILLS EM APRENDIZADO)
-🧪 Resistência à Plaga: Estudo profundo de microsserviços e resiliência de sistemas.
+* 🧪 **Resistência à Plaga:** Estudo profundo de microsserviços e resiliência de sistemas.
+* ⚡ **Reflexos Rápidos:** `<!-- PREENCHER: Tecnologia em aprendizado ex: Go / Rust / Kubernetes -->`
+* 🛠️ **Arquitetura de Posto Avançado:** `<!-- PREENCHER: Outra tecnologia ex: GraphQL / Clean Architecture -->`
 
-⚡ Reflexos Rápidos: ``
+---
 
-🛠️ Arquitetura de Posto Avançado: ``
+## ⚰️ MORTOS-VIVOS ABATIDOS (TECNOLOGIAS LEGADO)
 
-─── ☣ ───
+* 🧌 **Juggernaut (Memory Leak):** Identificado, isolado em container e abatido via profilaxia de código.
+* 🏃 **Feral (Race Condition):** Neutralizado com controle rigoroso de assincronismo e travas de estado.
+* 🤢 **Bloater (Código Legado Spaghetti):** Refatorado antes que contaminasse os demais serviços da base.
 
-⚰️ MORTOS-VIVOS ABATIDOS (TECNOLOGIAS LEGADO)
-🧌 Juggernaut (Memory Leak): Identificado, isolado em container e abatido via profilaxia de código.
+---
 
-🏃 Feral (Race Condition): Neutralizado com controle rigoroso de assincronismo e travas de estado.
+## 📊 STATS DO ABRIGO
 
-🤢 Bloater (Código Legado Spaghetti): Refatorado antes que contaminasse os demais serviços da base.
+<div align="center">
 
-─── ☣ ───
+<img src="https://github-readme-stats.vercel.app/api?username=yniks&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=8b0000&text_color=e8e8e8&icon_color=39ff14&border_color=b7410e" alt="Stats do Abrigo" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yniks&theme=dark&background=0d0d0d&stroke=b7410e&alarm=8b0000&fire=39ff14&ring=8b0000&sidenums=e8e8e8&currStreakNum=39ff14&dates=e8e8e8" alt="Moral da Comunidade" height="175"/>
 
-📊 STATS DO ABRIGO
-─── ☣ ───
+<br/><br/>
 
-📻 RÁDIO DE EMERGÊNCIA (CONTATO & REDES)
-☣️ Terminal mantido por Yago (yniks). SobreViva ao código. ☣️
+<img src="https://github-profile-trophy.vercel.app/?username=yniks&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Conquistas de Sobrevivência"/>
 
-Markdown
-# ═══════════════════════════════════════════
-# BLOCO 3 — BADGES SHIELDS.IO (PALETA SOD2)
-# ═══════════════════════════════════════════
+</div>
 
-# 1. STATUS DO SOBREVIVENTE (Verde Tóxico)
-https://img.shields.io/badge/SOBREVIVENTE-🟢%20ATIVO-39ff14?style=for-the-badge&labelColor=0d0d0d
+---
 
-# 2. NIVEL DE INFECÇÃO (Verde Tóxico + Biohazard Logo)
-https://img.shields.io/badge/INFECÇÃO%20PLAGA-0%25-39ff14?style=for-the-badge&labelColor=0d0d0d&logo=biohazard&logoColor=39ff14
+## 📻 RÁDIO DE EMERGÊNCIA (CONTATO & REDES)
 
-# 3. LÍDER CONSTRUTOR (Ferrugem)
-https://img.shields.io/badge/LÍDER-CONSTRUTOR-b7410e?style=for-the-badge&labelColor=0d0d0d
+<div align="center">
 
-# 4. SUPRIMENTO DE CAFÉ (Sangue)
-https://img.shields.io/badge/SUPRIMENTO%20CAFÉ-CRÍTICO-8b0000?style=for-the-badge&labelColor=0d0d0d
+<a href="<!-- PREENCHER: SEU_LINKEDIN -->"><img src="https://img.shields.io/badge/FREQUÊNCIA-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="<!-- PREENCHER: SEU_PORTFOLIO -->"><img src="https://img.shields.io/badge/RADAR-PORTFÓLIO-b7410e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:<!-- PREENCHER: SEU_EMAIL -->"><img src="https://img.shields.io/badge/SINAL_DE_FUMAÇA-EMAIL-8b0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-# 5. MORAL DA COMUNIDADE (Verde Tóxico)
-https://img.shields.io/badge/MORAL%20DA%20COMUNIDADE-ALTA-39ff14?style=for-the-badge&labelColor=0d0d0d
+<br/><br/>
 
-# 6. MUNIÇÃO BACKEND (Ferrugem)
-https://img.shields.io/badge/MUNIÇÃO-BACKEND-b7410e?style=for-the-badge&labelColor=0d0d0d
+<sub>☣️ Terminal mantido por Yago (yniks). SobreViva ao código. ☣️</sub>
 
-# 7. MATERIAIS FRONTEND (Texto Claro)
-https://img.shields.io/badge/MATERIAIS-FRONTEND-e8e8e8?style=for-the-badge&labelColor=0d0d0d
-
-# 8. BARRICADA DOCKER (Sangue)
-https://img.shields.io/badge/BARRICADA-DOCKER-8b0000?style=for-the-badge&labelColor=0d0d0d&logo=docker&logoColor=white
-Markdown
-# ═══════════════════════════════════════════
-# BLOCO 4 — WIDGETS COM PARÂMETROS CUSTOMIZADOS
-# ═══════════════════════════════════════════
-
-# 1. GitHub Readme Stats
-https://github-readme-stats.vercel.app/api?username=yniks&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=8b0000&text_color=e8e8e8&icon_color=39ff14&border_color=b7410e
-
-# 2. GitHub Streak Stats
-https://github-readme-streak-stats.herokuapp.com/?user=yniks&theme=dark&background=0d0d0d&stroke=b7410e&alarm=8b0000&fire=39ff14&ring=8b0000&sidenums=e8e8e8&currStreakNum=39ff14&dates=e8e8e8
-
-# 3. GitHub Profile Trophy
-https://github-profile-trophy.vercel.app/?username=yniks&theme=onedark&column=6&margin-w=15&margin-h=
+</div>
