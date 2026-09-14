@@ -2,7 +2,6 @@ name: Survival Day Counter
 
 on:
   schedule:
-    # Executa todos os dias à meia-noite (UTC)
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -16,17 +15,15 @@ jobs:
       - name: Calculate Days Survived
         id: counter
         run: |
-          START_DATE="2021-01-01" # <!-- PREENCHER: Sua data de início na programação (YYYY-MM-DD) -->
+          START_DATE="2026-01-02"
           CURRENT_DATE=$(date +%Y-%m-%d)
           START_SEC=$(date -d "$START_DATE" +%s)
           CURRENT_SEC=$(date -d "$CURRENT_DATE" +%s)
           DAYS=$(( (CURRENT_SEC - START_SEC) / 86400 ))
           echo "DAYS_SURVIVED=$DAYS" >> $GITHUB_ENV
-          echo "Dias calculados: $DAYS"
 
       - name: Update README Log
         run: |
-          # Atualiza a tag de dias sobrevivendo no README ou gera um arquivo de status
           sed -i "s/DIAS_SOBREVIVENDO.*/DIAS_SOBREVIVENDO: ${{ env.DAYS_SURVIVED }} dias/g" README.md || true
 
       - name: Commit changes
