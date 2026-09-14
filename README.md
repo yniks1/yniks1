@@ -39,7 +39,6 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 <a href="#"><img src="https://img.shields.io/badge/INFECÇÃO%20PLAGA-25%25-39ff14?style=for-the-badge&labelColor=0d0d0d&logo=biohazard&logoColor=39ff14" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LÍDER-CONSTRUTOR-b7410e?style=for-the-badge&labelColor=0d0d0d" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MORAL%20DA%20COMUNIDADE-ALTA-39ff14?style=for-the-badge&labelColor=0d0d0d" /></a>
-
 </div>
 
 <div align="center">
@@ -59,4 +58,6 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 [TRAIT]            : "Resolve sob Pressão" (+20 Moral ao debugar em produção)
 [LEADER BONUS]     : "Infraestrutura Inabalável" (-50% de débito técnico na base)
 [MISSÃO]           : Eliminar hordas de bugs, refatorar código legado e construir soluções escaláveis.
+
+
 
