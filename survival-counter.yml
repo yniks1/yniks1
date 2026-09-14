@@ -1,8 +1,9 @@
-name: Survival Counter
+name: Survival Day Counter
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Executa todo dia à meia-noite
+    # Executa todos os dias à meia-noite (UTC)
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,14 +13,26 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Calculate Days
-        id: calculate
+      - name: Calculate Days Survived
+        id: counter
         run: |
-          START_DATE="2020-01-01" # SUBSTITUA pela data que começou a programar (YYYY-MM-DD)
+          START_DATE="2021-01-01" # <!-- PREENCHER: Sua data de início na programação (YYYY-MM-DD) -->
           CURRENT_DATE=$(date +%Y-%m-%d)
-          DAYS=$(( ( $(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 ))
-          echo "DAYS=$DAYS" >> $GITHUB_ENV
+          START_SEC=$(date -d "$START_DATE" +%s)
+          CURRENT_SEC=$(date -d "$CURRENT_DATE" +%s)
+          DAYS=$(( (CURRENT_SEC - START_SEC) / 86400 ))
+          echo "DAYS_SURVIVED=$DAYS" >> $GITHUB_ENV
+          echo "Dias calculados: $DAYS"
 
-      - name: Log Survival Days
+      - name: Update README Log
         run: |
-          echo "Dias sobrevivendo no apocalipse dev: $DAYS"
+          # Atualiza a tag de dias sobrevivendo no README ou gera um arquivo de status
+          sed -i "s/DIAS_SOBREVIVENDO.*/DIAS_SOBREVIVENDO: ${{ env.DAYS_SURVIVED }} dias/g" README.md || true
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "☣️ Log de sobrevivência atualizado: Dia ${{ env.DAYS_SURVIVED }}"
+          git push
