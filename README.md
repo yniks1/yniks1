@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1200&auto=format&fit=crop" width="100%" alt="State of Decay Outpost Banner" />
+<img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1200&auto=format&fit=crop" width="100%" height="160" style="object-fit: cover;" alt="Banner Apocalíptico" />
 
 <pre>
     .                                                      .
