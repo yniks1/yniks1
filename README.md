@@ -53,7 +53,7 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 [IDENTIDADE]       : Yago Lacerda "yniks"
 [CLASSE]           : Full-Stack Apocalypse Engineer
 [BASE ATUAL]       : Contagem, MG - Zona Segura 🇧🇷
-[TEMPO NO APOCALIPSE]: DIAS_SOBREVIVENDO: 262 dias
+[TEMPO NO APOCALIPSE]: DIAS_SOBREVIVENDO: 263 dias
 [CONDIÇÃO]         : 🟢 Estável (Movido a café, testes automatizados e adrenalina)
 [TRAIT]            : "Resolve sob Pressão" (+20 Moral ao debugar em produção)
 [LEADER BONUS]     : "Infraestrutura Inabalável" (-50% de débito técnico na base)
